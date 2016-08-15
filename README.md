@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/badge/github-Xzanth/cinch--auth--autovoice-blue.svg)](http://github.com/Xzanth/cinch-auth-autovoice)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](#license)
 [![Dependency Status](https://img.shields.io/gemnasium/Xzanth/cinch-auth-autovoice.svg)](https://gemnasium.com/Xzanth/cinch-auth-autovoice)
-[![Gem Version](https://badge.fury.io/rb/cinch-auth-autovoice.svg)](https://badge.fury.io/rb/cinch-auth-autovoice)
+[![Gem Version](https://badge.fury.io/rb/cinch-auth-autovoice.svg)](https://badge.fury.io/rb/cinch-auth-autovoice)  
 Plugin that automatically voices all authed users in specified channels.
 
 ## Usage
